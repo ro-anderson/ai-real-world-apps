@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ai-real-world-apps"
+version = "0.1.0"
+description = "Notes/Code on AI Real World App's (FIAP 3 months imersion)"
+authors = ["ro-anderson <didier.rda@gmail.com>"]
+package-mode = false
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
